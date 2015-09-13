@@ -31,14 +31,6 @@ Singleton шаблонът се използва когато искаме да 
 
 ### Code example
 
-//-----------------------------------------------------------------------
-// <copyright file="Highscore.cs" company="BattleField-5 team">
-//     Telerik teamwork project.
-// </copyright>
-// <summary>
-// Contains Highscore class
-// </summary>
-//-----------------------------------------------------------------------
 namespace MineFieldApp
 {
     using System;
